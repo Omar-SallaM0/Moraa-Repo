@@ -3,4 +3,4 @@ the first repo
 
 
 
-## Hello I am Student In University Menofiya , I study Computer Science And Mathmatices
+## Hello I am Student In Menofiya University , I study Computer Science And Mathmatices
